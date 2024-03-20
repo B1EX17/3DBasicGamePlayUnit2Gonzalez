@@ -4857,6 +4857,7 @@ GameObject:
   - component: {fileID: 6382366417362524987}
   - component: {fileID: 6019755317680866029}
   - component: {fileID: 3803340326281011826}
+  - component: {fileID: 136384145068354960}
   m_Layer: 0
   m_Name: Doberman
   m_TagString: Untagged
@@ -4983,6 +4984,18 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.3062973, y: 0.33089525, z: 0.37131438}
   m_Center: {x: -0.06564186, y: 0.13333559, z: 0.030267125}
+--- !u!114 &136384145068354960
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6634480716001905227}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 190db4a7ce48ec44ebe2d63aa153c6fb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &6705987443408181034
 GameObject:
   m_ObjectHideFlags: 0
